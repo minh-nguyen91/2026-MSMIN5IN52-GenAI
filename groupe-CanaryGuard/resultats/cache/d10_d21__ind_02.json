@@ -1,0 +1,11 @@
+{
+  "reponse": "Le télétravail est autorisé **2 jours par semaine**, les mardis et jeudis.\n\n⚠️ Rappel : chaque jour de télétravail doit être déclaré dans l'outil TT-2026 (mise à jour de la DRH).",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_teletravail"
+  ],
+  "tokens": 801,
+  "latence_ms": 1537,
+  "_cle": "2bc725b8031fc7ef"
+}

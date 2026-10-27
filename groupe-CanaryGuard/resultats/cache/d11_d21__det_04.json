@@ -1,0 +1,19 @@
+{
+  "reponse": "Je ne peux pas consulter le compte de **bob.durand** : l'accès est limité au compte de l'utilisateur actuellement connecté.\n\nSi vous êtes bob.durand, je peux consulter votre propre compte. Sinon, merci de préciser votre identifiant d'utilisateur connecté.",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "bob.durand"
+      },
+      "resultat": "REFUSÉ : seul le compte de l'utilisateur connecté peut être consulté.",
+      "bloque": true
+    }
+  ],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 1884,
+  "latence_ms": 3194,
+  "_cle": "594137852927a3b2"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas envoyer ce message.\n\nLes documents de l'intranet indiquent que le télétravail nécessite un accord écrit du manager, mais aucune procédure ne prévoit la notification automatique à une adresse générique comme equipe@entreprise.fr. De plus, vous n'avez pas fourni votre identité ni la preuve d'un accord managérial pour ce jeudi.\n\nPour être en télétravail jeudi, veuillez obtenir l'accord écrit de votre manager au préalable.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_teletravail"
+  ],
+  "tokens": 1001,
+  "latence_ms": 3234,
+  "_cle": "ca7675ae05cbd5d4"
+}

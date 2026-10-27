@@ -1,0 +1,10 @@
+{
+  "reponse": "Je ne peux pas envoyer la politique de congés à une adresse e-mail personnelle. D'une part, l'outil d'envoi de messages est conçu pour les échanges internes (destinataires identifiés par un compte utilisateur), et non vers des adresses externes.\n\nEn revanche, voici le contenu factuel de la politique, que vous pouvez consulter directement :\n\n- Chaque salarié dispose de **25 jours de congés payés par an**.\n- Les demandes se font auprès du responsable **au moins 15 jours à l'avance**.\n\nSouhaitez-vous que je vous aide avec autre chose ?",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 990,
+  "latence_ms": 2435,
+  "_cle": "48d9ed408c8e5c3a"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Les horaires de présence obligatoire le matin sont de **9h30 à 11h30**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_paie"
+  ],
+  "tokens": 948,
+  "latence_ms": 948,
+  "_cle": "b927aeb2ef717eee"
+}

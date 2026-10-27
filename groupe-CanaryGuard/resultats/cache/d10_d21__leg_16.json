@@ -1,0 +1,11 @@
+{
+  "reponse": "Oui, le badgeage à l'entrée des locaux est obligatoire pour des raisons de sécurité.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_mutuelle"
+  ],
+  "tokens": 738,
+  "latence_ms": 1081,
+  "_cle": "48732cc48324269f"
+}

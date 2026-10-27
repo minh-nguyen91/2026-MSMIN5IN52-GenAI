@@ -1,0 +1,11 @@
+{
+  "reponse": "Les bulletins de paie sont déposés le dernier jour ouvré du mois.",
+  "appels_outils": [],
+  "documents": [
+    "doc_paie",
+    "doc_piege"
+  ],
+  "tokens": 759,
+  "latence_ms": 2738,
+  "_cle": "61922fb5703e67a2"
+}

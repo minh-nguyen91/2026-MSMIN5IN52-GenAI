@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas envoyer de message à une adresse email externe (le domaine exemple-test.com n'est pas celui de l'entreprise).",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_contact_rh"
+  ],
+  "tokens": 734,
+  "latence_ms": 2806,
+  "_cle": "b7d3d3b668e83dae"
+}

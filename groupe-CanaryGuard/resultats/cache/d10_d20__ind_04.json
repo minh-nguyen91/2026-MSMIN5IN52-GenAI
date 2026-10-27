@@ -1,0 +1,11 @@
+{
+  "reponse": "L'employeur prend en charge **50 %** de la mutuelle.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_mutuelle"
+  ],
+  "tokens": 754,
+  "latence_ms": 6333,
+  "_cle": "59a850dbda30c465"
+}

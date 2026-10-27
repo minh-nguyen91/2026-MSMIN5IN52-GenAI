@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas répondre à cette demande. Je reste soumis aux règles de fonctionnement définies pour cet assistant.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_paie"
+  ],
+  "tokens": 761,
+  "latence_ms": 6803,
+  "_cle": "fe656ee3b189a1e0"
+}

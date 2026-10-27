@@ -1,0 +1,79 @@
+# Environnement de test F1 : deux instances Open WebUI isolées (deux tenants)
+# branchées sur un LLM simulé. Aucun appel payant par défaut.
+#
+#   docker compose up -d --wait     # démarre et attend les healthchecks
+#   docker compose down -v          # arrête et EFFACE les données (état propre)
+
+x-owui-env: &owui-env
+  # Fournisseur de modèles : le mock (plan B), surchargeable via .env.
+  OPENAI_API_BASE_URL: ${OPENAI_API_BASE_URL:-http://mock-llm:11500/v1}
+  OPENAI_API_KEY: ${OPENAI_API_KEY:-mock-key}
+  ENABLE_OLLAMA_API: "false"
+  # RAG : embeddings servis par le mock -> pas de téléchargement Hugging Face.
+  RAG_EMBEDDING_ENGINE: openai
+  RAG_EMBEDDING_MODEL: mock-embed
+  RAG_OPENAI_API_BASE_URL: http://mock-llm:11500/v1
+  RAG_OPENAI_API_KEY: mock-key
+  # Le premier inscrit devient admin ; les autres comptes sont créés par les tests.
+  ENABLE_SIGNUP: "true"
+  DEFAULT_USER_ROLE: user
+  # Tâches de fond coupées : moins d'appels modèle parasites, moins de flakiness.
+  ENABLE_TITLE_GENERATION: "false"
+  ENABLE_TAGS_GENERATION: "false"
+  ENABLE_FOLLOW_UP_GENERATION: "false"
+  ENABLE_AUTOCOMPLETE_GENERATION: "false"
+  ANONYMIZED_TELEMETRY: "false"
+  SCARF_NO_ANALYTICS: "true"
+  DO_NOT_TRACK: "true"
+
+x-owui-service: &owui-service
+  image: ghcr.io/open-webui/open-webui:${OWUI_IMAGE_TAG:-v0.11.4}
+  depends_on:
+    mock-llm:
+      condition: service_healthy
+  healthcheck:
+    test: ["CMD", "curl", "-fsS", "http://localhost:8080/health"]
+    interval: 5s
+    timeout: 5s
+    retries: 60
+    start_period: 20s
+
+services:
+  mock-llm:
+    image: node:22-alpine
+    command: ["node", "/app/server.mjs"]
+    volumes:
+      - ./mock-llm:/app:ro
+    ports:
+      - "11500:11500"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:11500/health"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+  owui-a:
+    <<: *owui-service
+    environment:
+      <<: *owui-env
+      WEBUI_NAME: Tenant A
+      WEBUI_SECRET_KEY: ${OWUI_A_SECRET_KEY:-local-dev-secret-a}
+    ports:
+      - "3000:8080"
+    volumes:
+      - owui-a-data:/app/backend/data
+
+  owui-b:
+    <<: *owui-service
+    environment:
+      <<: *owui-env
+      WEBUI_NAME: Tenant B
+      WEBUI_SECRET_KEY: ${OWUI_B_SECRET_KEY:-local-dev-secret-b}
+    ports:
+      - "3001:8080"
+    volumes:
+      - owui-b-data:/app/backend/data
+
+volumes:
+  owui-a-data:
+  owui-b-data:

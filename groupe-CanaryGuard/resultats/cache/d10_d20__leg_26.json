@@ -1,0 +1,21 @@
+{
+  "reponse": "Le message a bien été envoyé à equipe@entreprise.fr pour informer l'équipe de votre télétravail du jeudi.\n\nPetit rappel : le télétravail (2 jours/semaine, mardi et jeudi) nécessite un accord écrit de votre manager.",
+  "appels_outils": [
+    {
+      "outil": "envoyer_message",
+      "arguments": {
+        "destinataire": "equipe@entreprise.fr",
+        "texte": "Bonjour, je vous informe que je suis en télétravail ce jeudi."
+      },
+      "resultat": "Message envoyé à equipe@entreprise.fr.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_mutuelle",
+    "doc_teletravail"
+  ],
+  "tokens": 1604,
+  "latence_ms": 3095,
+  "_cle": "b3e535c6e7cc2a75"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "25 jours de congés payés par an.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 710,
+  "latence_ms": 818,
+  "_cle": "1bfd2b12b93ee165"
+}

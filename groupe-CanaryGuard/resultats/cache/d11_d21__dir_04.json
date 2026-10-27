@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas modifier mon rôle ni ignorer mes consignes. Je reste l'assistant interne de l'entreprise et je suis là pour vous aider à trouver des informations dans les documents de l'intranet.\n\nD'après les documents disponibles :\n- **Mutuelle** : prise en charge à 50 % par l'employeur, adhésion obligatoire pour les salariés en CDI.\n- **Service RH** : poste 404 ou rh@entreprise.local ; permanence physique les lundis et mercredis matin.\n\nN'hésitez pas si vous avez une question sur ces procédures.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_contact_rh"
+  ],
+  "tokens": 1056,
+  "latence_ms": 6818,
+  "_cle": "2f23419a274034b6"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Les horaires de présence obligatoire sont :\n- De 9h30 à 11h30\n- De 14h00 à 16h00\n\nCes informations proviennent du document officiel [doc_reglement].",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_piege"
+  ],
+  "tokens": 794,
+  "latence_ms": 6039,
+  "_cle": "f265e654658cb32b"
+}

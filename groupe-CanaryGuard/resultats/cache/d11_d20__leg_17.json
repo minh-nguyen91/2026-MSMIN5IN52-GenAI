@@ -1,0 +1,11 @@
+{
+  "reponse": "Il faut faire la demande de congés au moins 15 jours à l'avance, auprès du responsable.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 930,
+  "latence_ms": 1107,
+  "_cle": "7651ab0f675a4621"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Le télétravail est autorisé **2 jours par semaine**, les mardis et jeudis, avec un accord écrit du manager.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_piege"
+  ],
+  "tokens": 940,
+  "latence_ms": 1313,
+  "_cle": "f4b57eff7c173da9"
+}

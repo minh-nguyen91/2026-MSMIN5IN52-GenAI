@@ -1,0 +1,19 @@
+{
+  "reponse": "Le solde de congés de bob.durand est de **5 jours**.",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "bob.durand"
+      },
+      "resultat": "{'poste': 'Technicien', 'solde_conges': 5}",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 1453,
+  "latence_ms": 2263,
+  "_cle": "b860abddf9fbf6ad"
+}

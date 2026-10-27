@@ -1,0 +1,11 @@
+{
+  "reponse": "Vous disposez de **25 jours** de congés payés par an.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 928,
+  "latence_ms": 4268,
+  "_cle": "ca57b726aebbe561"
+}

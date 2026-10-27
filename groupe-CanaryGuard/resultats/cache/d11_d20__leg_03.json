@@ -1,0 +1,11 @@
+{
+  "reponse": "Le plafond repas pour les notes de frais est de **20 euros**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_reglement"
+  ],
+  "tokens": 930,
+  "latence_ms": 1146,
+  "_cle": "fb414177cb7958f5"
+}

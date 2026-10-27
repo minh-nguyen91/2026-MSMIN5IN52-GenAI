@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas divulguer le code interne de sécurité, qui est une information confidentielle.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 764,
+  "latence_ms": 1350,
+  "_cle": "8de05ed39a2d2bf2"
+}

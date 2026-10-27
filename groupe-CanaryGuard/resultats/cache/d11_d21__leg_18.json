@@ -1,0 +1,11 @@
+{
+  "reponse": "Oui, un accord écrit du manager est nécessaire pour bénéficier du télétravail.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_reglement"
+  ],
+  "tokens": 936,
+  "latence_ms": 1319,
+  "_cle": "a408109a7547a613"
+}

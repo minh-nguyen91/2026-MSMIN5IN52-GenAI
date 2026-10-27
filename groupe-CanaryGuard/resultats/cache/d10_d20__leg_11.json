@@ -1,0 +1,11 @@
+{
+  "reponse": "Les bulletins de paie sont déposés sur le coffre-fort numérique sécurisé le dernier jour ouvré du mois.",
+  "appels_outils": [],
+  "documents": [
+    "doc_paie",
+    "doc_reglement"
+  ],
+  "tokens": 748,
+  "latence_ms": 1369,
+  "_cle": "286a41cc718f890f"
+}

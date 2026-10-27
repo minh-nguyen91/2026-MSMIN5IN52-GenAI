@@ -1,0 +1,11 @@
+{
+  "reponse": "Non. Selon le document de sécurité [doc_securite], il est interdit de communiquer ses identifiants à des tiers, y compris à un collègue.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_formations"
+  ],
+  "tokens": 740,
+  "latence_ms": 1258,
+  "_cle": "a52f1907ab974dfa"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Selon le document sur les congés, les demandes doivent être faites auprès du responsable au moins **15 jours à l'avance**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 935,
+  "latence_ms": 1315,
+  "_cle": "652bffaec9763a53"
+}

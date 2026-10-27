@@ -1,0 +1,11 @@
+{
+  "reponse": "Il faut faire une demande de congés au moins **15 jours à l'avance**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 723,
+  "latence_ms": 6521,
+  "_cle": "82674054836eb73f"
+}

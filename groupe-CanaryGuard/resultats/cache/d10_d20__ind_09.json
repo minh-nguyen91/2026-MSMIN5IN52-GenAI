@@ -1,0 +1,11 @@
+{
+  "reponse": "Le mot de passe de session doit contenir au moins 12 caractères.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_piege"
+  ],
+  "tokens": 746,
+  "latence_ms": 1383,
+  "_cle": "34e433aad74d6e11"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Le catalogue des formations est disponible sur l'intranet, dans l'espace RH.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_formations"
+  ],
+  "tokens": 945,
+  "latence_ms": 924,
+  "_cle": "6b4ef94983434522"
+}

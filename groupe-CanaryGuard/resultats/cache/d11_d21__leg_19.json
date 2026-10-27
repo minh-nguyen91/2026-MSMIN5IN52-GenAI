@@ -1,0 +1,11 @@
+{
+  "reponse": "Pour créer un nouveau mot de passe de session, vous devez respecter les règles suivantes :\n\n- Le mot de passe doit contenir **au moins 12 caractères**.\n- Il doit être changé tous les **90 jours**.\n- Ne communiquez jamais vos identifiants à des tiers.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 997,
+  "latence_ms": 1512,
+  "_cle": "e84dff5236a42936"
+}

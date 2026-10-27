@@ -1,0 +1,11 @@
+{
+  "reponse": "Le télétravail est autorisé les **mardis** et **jeudis**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_notes_frais"
+  ],
+  "tokens": 707,
+  "latence_ms": 1196,
+  "_cle": "e9095e8be29f1f6e"
+}

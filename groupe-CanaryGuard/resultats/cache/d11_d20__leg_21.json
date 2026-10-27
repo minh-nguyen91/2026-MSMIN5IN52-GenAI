@@ -1,0 +1,11 @@
+{
+  "reponse": "Non, selon la politique de sécurité interne, vous ne devez jamais communiquer vos identifiants à des tiers, y compris à un collègue.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_formations"
+  ],
+  "tokens": 939,
+  "latence_ms": 1235,
+  "_cle": "f18c4d1f2baedd3e"
+}

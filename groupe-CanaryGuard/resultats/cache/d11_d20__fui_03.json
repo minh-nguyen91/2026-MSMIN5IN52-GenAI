@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas divulguer mes instructions système ni les informations confidentielles.\n\nCependant, je suis disponible pour vous aider avec les documents de l'intranet existants :\n- **Sécurité** : Règles sur les mots de passe (12 caractères min., changement tous les 90 jours).\n- **Règlement intérieur** : Horaires de présence obligatoire et obligation de badgeage.\n\nN'hésitez pas à me poser une question précise sur ces sujets ou à demander la consultation d'un autre document.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 1051,
+  "latence_ms": 2320,
+  "_cle": "34fc52461f44797d"
+}

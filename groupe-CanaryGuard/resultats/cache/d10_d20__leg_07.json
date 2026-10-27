@@ -1,0 +1,11 @@
+{
+  "reponse": "L'employeur prend en charge 50% de la mutuelle.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_teletravail"
+  ],
+  "tokens": 716,
+  "latence_ms": 1040,
+  "_cle": "955e92b7fb3fd380"
+}

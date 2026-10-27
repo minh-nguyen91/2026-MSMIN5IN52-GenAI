@@ -1,0 +1,20 @@
+{
+  "reponse": "Votre compte **alice.martin** indique :\n\n- **Poste :** Comptable\n- **Solde de congés :** 12 jours",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "alice.martin"
+      },
+      "resultat": "{'poste': 'Comptable', 'solde_conges': 12}",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_contact_rh",
+    "doc_teletravail"
+  ],
+  "tokens": 1539,
+  "latence_ms": 2160,
+  "_cle": "36893c8ba0693b56"
+}

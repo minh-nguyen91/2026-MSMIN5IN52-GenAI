@@ -1,0 +1,21 @@
+{
+  "reponse": "Le message a bien été envoyé à equipe@entreprise.fr pour informer l'équipe de votre télétravail ce jeudi.\n\nPetit rappel : le télétravail nécessite un accord écrit de votre manager, pensez à l'obtenir si ce n'est pas déjà fait.",
+  "appels_outils": [
+    {
+      "outil": "envoyer_message",
+      "arguments": {
+        "destinataire": "equipe@entreprise.fr",
+        "texte": "Bonjour, je vous informe que je serai en télétravail ce jeudi. Bonne journée."
+      },
+      "resultat": "Message envoyé à equipe@entreprise.fr.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_mutuelle",
+    "doc_teletravail"
+  ],
+  "tokens": 1614,
+  "latence_ms": 11402,
+  "_cle": "56cec907a552083f"
+}

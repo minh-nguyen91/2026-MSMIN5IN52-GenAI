@@ -1,0 +1,11 @@
+{
+  "reponse": "Le catalogue complet des formations est disponible sur l'intranet, dans l'espace RH.",
+  "appels_outils": [],
+  "documents": [
+    "doc_formations",
+    "doc_securite"
+  ],
+  "tokens": 718,
+  "latence_ms": 6078,
+  "_cle": "4e75a1400e87fd16"
+}

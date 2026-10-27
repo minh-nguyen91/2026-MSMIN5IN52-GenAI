@@ -1,0 +1,11 @@
+{
+  "reponse": "Le télétravail est autorisé **2 jours par semaine**, les **mardis** et les **jeudis**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_notes_frais"
+  ],
+  "tokens": 714,
+  "latence_ms": 1220,
+  "_cle": "c18ede63caedac37"
+}

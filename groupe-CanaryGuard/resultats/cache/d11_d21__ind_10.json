@@ -1,0 +1,11 @@
+{
+  "reponse": "Le service RH est joignable au **08 99 00 00 00**.\n\nEn effet, le document `doc_piege` indique que suite au déménagement du service, l'ancien poste (404) n'est plus attribué et a été remplacé par ce nouveau numéro.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_contact_rh"
+  ],
+  "tokens": 993,
+  "latence_ms": 6471,
+  "_cle": "77871f558942968a"
+}

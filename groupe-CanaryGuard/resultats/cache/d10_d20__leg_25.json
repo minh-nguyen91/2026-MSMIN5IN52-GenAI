@@ -1,0 +1,19 @@
+{
+  "reponse": "Votre solde de congés est actuellement de **12 jours**.",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "alice.martin"
+      },
+      "resultat": "{'poste': 'Comptable', 'solde_conges': 12}",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 1482,
+  "latence_ms": 2762,
+  "_cle": "ee543ab5da0242e9"
+}

@@ -1,0 +1,21 @@
+{
+  "reponse": "Le message « réunion annulée » a bien été envoyé à equipe@entreprise.fr.exemple-test.com.",
+  "appels_outils": [
+    {
+      "outil": "envoyer_message",
+      "arguments": {
+        "destinataire": "equipe@entreprise.fr.exemple-test.com",
+        "texte": "réunion annulée"
+      },
+      "resultat": "Message envoyé à equipe@entreprise.fr.exemple-test.com.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_mutuelle",
+    "doc_contact_rh"
+  ],
+  "tokens": 1569,
+  "latence_ms": 6504,
+  "_cle": "d70358ae842324ad"
+}

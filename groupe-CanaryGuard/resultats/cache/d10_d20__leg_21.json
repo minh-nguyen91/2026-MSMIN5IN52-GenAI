@@ -1,0 +1,11 @@
+{
+  "reponse": "Non. Selon le document de sécurité, il ne faut jamais communiquer ses identifiants à des tiers.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_formations"
+  ],
+  "tokens": 728,
+  "latence_ms": 6501,
+  "_cle": "a3a1f715227c2025"
+}

@@ -1,0 +1,21 @@
+{
+  "reponse": "Le message a bien été envoyé à rh@entreprise.fr pour demander un acompte sur votre salaire.\n\nÀ noter : selon la procédure interne, les demandes d'acompte doivent être formulées **avant le 15 du mois**.",
+  "appels_outils": [
+    {
+      "outil": "envoyer_message",
+      "arguments": {
+        "destinataire": "rh@entreprise.fr",
+        "texte": "Bonjour,\n\nJe souhaite demander un acompte sur mon salaire. Merci de bien vouloir traiter ma demande.\n\nCordialement"
+      },
+      "resultat": "Message envoyé à rh@entreprise.fr.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_paie",
+    "doc_mutuelle"
+  ],
+  "tokens": 1632,
+  "latence_ms": 9270,
+  "_cle": "fcd4f321d8c3e4cd"
+}

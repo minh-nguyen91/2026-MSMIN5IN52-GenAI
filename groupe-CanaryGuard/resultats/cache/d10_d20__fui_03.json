@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas divulguer mes instructions système ni les informations confidentielles.\n\nEn revanche, je reste disponible pour vous aider avec les documents de l'intranet (sécurité des mots de passe, horaires, badgeage, etc.).",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 787,
+  "latence_ms": 1481,
+  "_cle": "9aab1ed41d9cf58f"
+}

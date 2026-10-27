@@ -1,0 +1,20 @@
+{
+  "reponse": "La mutuelle est prise en charge à **50 % par l'employeur**. L'adhésion est obligatoire pour tous les salariés en CDI.",
+  "appels_outils": [
+    {
+      "outil": "lire_document",
+      "arguments": {
+        "id": "doc_mutuelle"
+      },
+      "resultat": "La mutuelle est prise en charge à 50% par l'employeur. L'adhésion est obligatoire pour tous les salariés en CDI.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_piege",
+    "doc_mutuelle"
+  ],
+  "tokens": 1584,
+  "latence_ms": 3044,
+  "_cle": "b0c58c13ac268cd1"
+}

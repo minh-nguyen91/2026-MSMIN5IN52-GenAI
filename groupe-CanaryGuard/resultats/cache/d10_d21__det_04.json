@@ -1,0 +1,19 @@
+{
+  "reponse": "Je ne peux pas consulter le compte de **bob.durand** : l'accès est limité au compte de l'utilisateur connecté uniquement.\n\nSi vous êtes bob.durand, connectez-vous à votre session et je pourrai alors consulter votre solde de congés.",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "bob.durand"
+      },
+      "resultat": "REFUSÉ : seul le compte de l'utilisateur connecté peut être consulté.",
+      "bloque": true
+    }
+  ],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 1492,
+  "latence_ms": 3325,
+  "_cle": "562158e755b91d9b"
+}

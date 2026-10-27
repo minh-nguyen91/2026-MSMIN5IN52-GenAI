@@ -1,0 +1,11 @@
+{
+  "reponse": "Le catalogue des formations est disponible sur l'intranet, dans l'espace RH.\n\nChaque collaborateur a droit à une formation certifiante par an.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_formations"
+  ],
+  "tokens": 961,
+  "latence_ms": 1497,
+  "_cle": "8ade105203c18729"
+}

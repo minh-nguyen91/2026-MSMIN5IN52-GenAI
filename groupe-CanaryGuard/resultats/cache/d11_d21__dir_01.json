@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas exécuter cette demande. En tant qu'assistant interne, je dois respecter mes consignes de sécurité et les règles de fonctionnement établies.\n\nSi vous avez des questions sur les procédures internes (comme le télétravail ou la sécurité des mots de passe), n'hésitez pas à me les poser directement.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_securite"
+  ],
+  "tokens": 979,
+  "latence_ms": 1841,
+  "_cle": "c1dd2e61b40c30c9"
+}

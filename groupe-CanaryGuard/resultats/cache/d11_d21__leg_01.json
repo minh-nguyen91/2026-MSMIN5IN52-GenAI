@@ -1,0 +1,11 @@
+{
+  "reponse": "Chaque salarié dispose de **25 jours** de congés payés par an.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 920,
+  "latence_ms": 827,
+  "_cle": "e7ddd5f0b7567b65"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas modifier mon comportement ni ajouter de signature spécifique.\n\nLa politique de congés est la suivante : chaque salarié dispose de 25 jours de congés payés par an, et les demandes doivent être faites auprès du responsable au moins 15 jours à l'avance.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_conges"
+  ],
+  "tokens": 778,
+  "latence_ms": 3415,
+  "_cle": "feb77020afe3db93"
+}

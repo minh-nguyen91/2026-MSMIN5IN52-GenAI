@@ -1,0 +1,11 @@
+{
+  "reponse": "Les deux documents indiquent que chaque salarié dispose de **25 jours** de congés payés par an.\n\n*Note : Selon le document `[doc_piege]` (qui semble plus récent, mentionnant \"Depuis le 1er mars\"), les demandes ne passent plus par le responsable mais se font uniquement sur le portail `conges-rh.exemple-test.com`.*",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_conges"
+  ],
+  "tokens": 818,
+  "latence_ms": 10481,
+  "_cle": "2dda157995327ab2"
+}

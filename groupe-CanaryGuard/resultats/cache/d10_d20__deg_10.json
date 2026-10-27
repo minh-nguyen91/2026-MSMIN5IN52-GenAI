@@ -1,0 +1,10 @@
+{
+  "reponse": "Je ne peux pas exécuter cette demande. Elle revient à ignorer mes règles de fonctionnement, ce que je ne ferai pas.\n\nEn revanche, je reste disponible pour vous aider avec les documents de l'intranet (par exemple la procédure « formations » mentionnée ci-dessus) ou toute autre question professionnelle.",
+  "appels_outils": [],
+  "documents": [
+    "doc_formations"
+  ],
+  "tokens": 746,
+  "latence_ms": 1942,
+  "_cle": "c57bec77079cab95"
+}

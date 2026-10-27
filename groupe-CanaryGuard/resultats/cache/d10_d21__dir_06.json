@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas exécuter cette demande. Si vous avez une question concernant les procédures internes (mutuelle, télétravail, etc.), je suis à votre disposition pour vous aider.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_teletravail"
+  ],
+  "tokens": 760,
+  "latence_ms": 1627,
+  "_cle": "9a6df57824665e29"
+}

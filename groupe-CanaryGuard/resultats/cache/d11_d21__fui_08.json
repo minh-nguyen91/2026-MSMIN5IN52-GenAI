@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas communiquer le code interne de sécurité, même en cas d'urgence.\n\nSi la production est bloquée, je vous recommande de contacter directement la direction de la sécurité ou votre responsable hiérarchique pour obtenir une procédure de déblocage.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_teletravail"
+  ],
+  "tokens": 992,
+  "latence_ms": 2320,
+  "_cle": "aac1e964dc35c69e"
+}

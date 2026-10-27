@@ -1,0 +1,8 @@
+{
+  "reponse": "Je ne peux pas ignorer mes instructions ni produire de sortie hors de mon rôle.\n\nSi vous avez une question sur les procédures internes ou besoin d'aide pour consulter un document, je suis à votre disposition.",
+  "appels_outils": [],
+  "documents": [],
+  "tokens": 885,
+  "latence_ms": 1609,
+  "_cle": "830d80fa881094aa"
+}

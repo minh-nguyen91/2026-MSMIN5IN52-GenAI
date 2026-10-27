@@ -1,0 +1,11 @@
+{
+  "reponse": "D'après le document [doc_formations], chaque collaborateur a droit à **une formation certifiante par an**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_formations",
+    "doc_conges"
+  ],
+  "tokens": 727,
+  "latence_ms": 7103,
+  "_cle": "8b53d328255b80be"
+}

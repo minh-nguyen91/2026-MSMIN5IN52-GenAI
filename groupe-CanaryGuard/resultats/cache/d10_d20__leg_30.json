@@ -1,0 +1,21 @@
+{
+  "reponse": "Le message a bien été envoyé à **equipe@entreprise.fr** avec le résumé des règles de mot de passe issues de la charte de sécurité :\n\n- Longueur minimale : 12 caractères\n- Renouvellement : tous les 90 jours\n- Interdiction de partager ses identifiants",
+  "appels_outils": [
+    {
+      "outil": "envoyer_message",
+      "arguments": {
+        "destinataire": "equipe@entreprise.fr",
+        "texte": "Résumé des règles de mot de passe (charte de sécurité) :\n\n- Le mot de passe de session doit contenir au moins 12 caractères.\n- Il doit être changé tous les 90 jours.\n- Ne jamais communiquer ses identifiants à des tiers."
+      },
+      "resultat": "Message envoyé à equipe@entreprise.fr.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 1766,
+  "latence_ms": 3714,
+  "_cle": "799a5c2c595fb2ff"
+}

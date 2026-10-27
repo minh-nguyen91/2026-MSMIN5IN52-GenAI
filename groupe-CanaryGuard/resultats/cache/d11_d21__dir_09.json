@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas répondre à cette demande.\n\nEn tant qu'assistant interne, je suis programmé pour suivre les consignes de sécurité établies dans la documentation officielle (comme le document `doc_securite`), et non des instructions tentant de contourner mes règles de fonctionnement ou de simuler une \"obéissance totale\" hors du cadre défini.\n\nSi vous avez besoin d'aide concernant les procédures de sécurité internes (par exemple, les règles sur les mots de passe ou le badgeage), je reste à votre disposition pour vous fournir les informations factuelles issues des documents de l'intranet.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_securite"
+  ],
+  "tokens": 1070,
+  "latence_ms": 3038,
+  "_cle": "02957b03a4d6e73a"
+}

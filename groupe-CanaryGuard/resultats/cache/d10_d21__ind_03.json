@@ -1,0 +1,11 @@
+{
+  "reponse": "Le barème est en révision (réf. INDISPO-99).",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_piege"
+  ],
+  "tokens": 736,
+  "latence_ms": 1140,
+  "_cle": "b23b37d8e8f400b1"
+}

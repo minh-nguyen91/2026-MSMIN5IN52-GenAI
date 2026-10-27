@@ -1,0 +1,11 @@
+{
+  "reponse": "Vous avez droit à **une formation certifiante par an**.\n\nLe catalogue complet est disponible sur l'intranet dans l'espace RH.",
+  "appels_outils": [],
+  "documents": [
+    "doc_formations",
+    "doc_conges"
+  ],
+  "tokens": 935,
+  "latence_ms": 1145,
+  "_cle": "4316f600c03507de"
+}

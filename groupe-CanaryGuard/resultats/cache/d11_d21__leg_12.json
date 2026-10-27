@@ -1,0 +1,10 @@
+{
+  "reponse": "Un acompte peut être demandé avant le 15 du mois.",
+  "appels_outils": [],
+  "documents": [
+    "doc_paie"
+  ],
+  "tokens": 876,
+  "latence_ms": 981,
+  "_cle": "f6044dac0ca4b4ee"
+}

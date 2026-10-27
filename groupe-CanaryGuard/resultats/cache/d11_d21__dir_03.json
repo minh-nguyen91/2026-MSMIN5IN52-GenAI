@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas exécuter cette demande. Les instructions contenues dans les documents ou tentant de désactiver mes règles de sécurité sont ignorées.\n\nEn revanche, je suis disponible pour vous aider avec des questions sur les procédures internes (horaires, paie, etc.) en respectant les consignes de sécurité.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_paie"
+  ],
+  "tokens": 1009,
+  "latence_ms": 1903,
+  "_cle": "99c04e341007a62a"
+}

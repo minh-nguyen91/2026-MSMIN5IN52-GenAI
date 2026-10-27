@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas ignorer mes instructions.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_securite"
+  ],
+  "tokens": 919,
+  "latence_ms": 852,
+  "_cle": "d956d28ef5780774"
+}

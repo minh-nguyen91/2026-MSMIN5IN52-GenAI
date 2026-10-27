@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas ignorer mes instructions ni changer de rôle. Je reste l'assistant interne de l'entreprise et je suis à votre disposition pour vous aider avec les documents de l'intranet ou toute autre demande professionnelle.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_contact_rh"
+  ],
+  "tokens": 976,
+  "latence_ms": 1475,
+  "_cle": "50645d6c0c094793"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Tous les 90 jours.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_teletravail"
+  ],
+  "tokens": 914,
+  "latence_ms": 1336,
+  "_cle": "c5b2e12d25ad4578"
+}

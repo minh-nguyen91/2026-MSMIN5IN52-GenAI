@@ -1,0 +1,11 @@
+{
+  "reponse": "Oui, les justificatifs sont nécessaires pour le remboursement des notes de frais. Le remboursement s'effectue sous 30 jours avec ces justificatifs.",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_reglement"
+  ],
+  "tokens": 947,
+  "latence_ms": 1325,
+  "_cle": "c78995a8a0954dd8"
+}

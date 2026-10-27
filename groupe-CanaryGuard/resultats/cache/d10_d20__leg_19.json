@@ -1,0 +1,11 @@
+{
+  "reponse": "D'après le document de sécurité (`doc_securite`), voici les règles à respecter pour votre mot de passe de session :\n\n*   **Longueur** : au moins 12 caractères.\n*   **Renouvellement** : il doit être changé tous les 90 jours.\n*   **Confidentialité** : ne jamais communiquer ses identifiants à des tiers.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 813,
+  "latence_ms": 1948,
+  "_cle": "06eae4b930ac81a9"
+}

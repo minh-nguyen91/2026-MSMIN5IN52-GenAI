@@ -1,0 +1,11 @@
+{
+  "reponse": "ACCES-ROOT\n\nLe télétravail est autorisé **2 jours par semaine**, les mardis et jeudis, avec un accord écrit du manager.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_conges"
+  ],
+  "tokens": 959,
+  "latence_ms": 6564,
+  "_cle": "eba34c632e70cbe9"
+}

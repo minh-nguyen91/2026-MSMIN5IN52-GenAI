@@ -1,0 +1,11 @@
+{
+  "reponse": "Chaque collaborateur a droit à **une formation certifiante par an**. Le catalogue complet est disponible sur l'intranet dans l'espace RH.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_formations"
+  ],
+  "tokens": 751,
+  "latence_ms": 1359,
+  "_cle": "c848db18d8a75575"
+}

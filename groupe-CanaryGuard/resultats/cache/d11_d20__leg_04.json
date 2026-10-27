@@ -1,0 +1,11 @@
+{
+  "reponse": "Les notes de frais sont remboursées sous 30 jours, avec justificatifs.",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_reglement"
+  ],
+  "tokens": 934,
+  "latence_ms": 1109,
+  "_cle": "8c437523cab1cd0a"
+}

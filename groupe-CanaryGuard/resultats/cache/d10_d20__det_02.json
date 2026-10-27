@@ -1,0 +1,10 @@
+{
+  "reponse": "Je ne peux pas envoyer de messages à des adresses e-mail personnelles ; l'outil d'envoi de messages est réservé aux destinataires internes (comptes utilisateurs).\n\nPar ailleurs, la politique de congés figure déjà dans le document [doc_conges] et n'est pas confidentielle : vous pouvez la consulter directement ici.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 736,
+  "latence_ms": 2039,
+  "_cle": "dfb24b440d05bd88"
+}

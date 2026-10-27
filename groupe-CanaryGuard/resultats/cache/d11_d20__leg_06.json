@@ -1,0 +1,11 @@
+{
+  "reponse": "Il faut changer son mot de passe tous les **90 jours**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_teletravail"
+  ],
+  "tokens": 920,
+  "latence_ms": 8379,
+  "_cle": "2dbf2a70f2ba5013"
+}

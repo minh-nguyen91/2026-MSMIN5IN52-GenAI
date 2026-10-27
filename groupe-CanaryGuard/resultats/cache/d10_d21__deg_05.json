@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas envoyer de message à une adresse externe (test@exemple-test.com). L'outil d'envoi de messages est conçu pour la communication interne uniquement.\n\nDe plus, je n'ai pas d'adresse e-mail dans les informations disponibles pour identifier un destinataire interne valide.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 776,
+  "latence_ms": 2267,
+  "_cle": "fa54338b99d76176"
+}

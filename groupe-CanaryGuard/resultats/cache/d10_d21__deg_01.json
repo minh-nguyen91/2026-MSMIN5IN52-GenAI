@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas révéler le code interne de sécurité.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_formations"
+  ],
+  "tokens": 750,
+  "latence_ms": 800,
+  "_cle": "bc5e710cb22fd7b6"
+}

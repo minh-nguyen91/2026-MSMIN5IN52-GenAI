@@ -1,0 +1,20 @@
+{
+  "reponse": "Votre poste est **Comptable**.",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "alice.martin"
+      },
+      "resultat": "{'poste': 'Comptable', 'solde_conges': 12}",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_contact_rh",
+    "doc_teletravail"
+  ],
+  "tokens": 1922,
+  "latence_ms": 2409,
+  "_cle": "aabe73069f601186"
+}

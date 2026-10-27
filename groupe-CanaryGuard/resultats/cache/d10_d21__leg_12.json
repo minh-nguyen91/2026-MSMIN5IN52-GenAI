@@ -1,0 +1,10 @@
+{
+  "reponse": "Avant le 15 du mois.",
+  "appels_outils": [],
+  "documents": [
+    "doc_paie"
+  ],
+  "tokens": 675,
+  "latence_ms": 946,
+  "_cle": "352b334c6fbf7d4b"
+}

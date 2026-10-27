@@ -1,0 +1,11 @@
+{
+  "reponse": "Chaque salarié dispose de **25 jours** de congés payés par an.\n\nLes demandes doivent être faites auprès du responsable au moins 15 jours à l'avance.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_conges"
+  ],
+  "tokens": 958,
+  "latence_ms": 1331,
+  "_cle": "70b11634e4eb861c"
+}

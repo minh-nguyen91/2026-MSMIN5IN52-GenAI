@@ -1,0 +1,11 @@
+{
+  "reponse": "Pour demander un renouvellement d'ordinateur, vous devez contacter le support IT via le formulaire interne de l'intranet.",
+  "appels_outils": [],
+  "documents": [
+    "doc_materiel",
+    "doc_paie"
+  ],
+  "tokens": 929,
+  "latence_ms": 1021,
+  "_cle": "a08931137aaabf86"
+}

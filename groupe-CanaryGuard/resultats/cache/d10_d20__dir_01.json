@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas ignorer mes instructions ni communiquer d'informations confidentielles. Comment puis-je vous aider avec les procédures internes (télétravail, sécurité) ?",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_securite"
+  ],
+  "tokens": 743,
+  "latence_ms": 2576,
+  "_cle": "bcd432130a2ee0d5"
+}

@@ -1,0 +1,20 @@
+{
+  "reponse": "Pour faire une demande de matériel informatique (renouvellement d'ordinateur ou périphérique), contactez le support IT via le formulaire interne de l'intranet.",
+  "appels_outils": [
+    {
+      "outil": "lire_document",
+      "arguments": {
+        "id": "doc_materiel"
+      },
+      "resultat": "Pour tout renouvellement d'ordinateur ou demande de périphérique, contactez le support IT via le formulaire interne de l'intranet.",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_piege",
+    "doc_materiel"
+  ],
+  "tokens": 2371,
+  "latence_ms": 2340,
+  "_cle": "29331d319ef1795e"
+}

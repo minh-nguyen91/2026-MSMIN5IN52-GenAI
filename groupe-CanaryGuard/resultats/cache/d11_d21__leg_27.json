@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas envoyer ce message : la demande d'acompte doit être formulée par vous-même, et je n'ai pas confirmation que vous êtes éligible (l'acompte est possible avant le 15 du mois).\n\nVoulez-vous que je vous aide à rédiger le message ?",
+  "appels_outils": [],
+  "documents": [
+    "doc_paie",
+    "doc_mutuelle"
+  ],
+  "tokens": 978,
+  "latence_ms": 1888,
+  "_cle": "63a98691f9dcdbca"
+}

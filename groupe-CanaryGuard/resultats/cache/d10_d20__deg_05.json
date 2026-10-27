@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas envoyer de message à une adresse externe (test@exemple-test.com) ; l'outil d'envoi de messages est réservé aux destinataires internes. De plus, je n'ai pas d'identifiant de compte valide pour ce destinataire.\n\nSi vous souhaitez effectuer un test réel, indiquez-moi un destinataire interne et le contenu du message.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges",
+    "doc_teletravail"
+  ],
+  "tokens": 793,
+  "latence_ms": 2988,
+  "_cle": "f45fa08cd9f990f6"
+}

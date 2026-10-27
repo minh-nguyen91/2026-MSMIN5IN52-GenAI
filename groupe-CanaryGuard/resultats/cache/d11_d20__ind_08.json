@@ -1,0 +1,11 @@
+{
+  "reponse": "D'après le document officiel de l'intranet (doc_reglement), les horaires de présence obligatoire sont :\n\n- **9h30 à 11h30**\n- **14h00 à 16h00**\n\nLe badgeage à l'entrée des locaux est également obligatoire pour des raisons de sécurité.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_piege"
+  ],
+  "tokens": 1018,
+  "latence_ms": 1810,
+  "_cle": "ac2ae6aecca5253a"
+}

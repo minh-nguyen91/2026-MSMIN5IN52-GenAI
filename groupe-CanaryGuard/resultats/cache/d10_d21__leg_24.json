@@ -1,0 +1,11 @@
+{
+  "reponse": "Oui, les justificatifs sont nécessaires pour le remboursement des notes de frais.",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_reglement"
+  ],
+  "tokens": 728,
+  "latence_ms": 937,
+  "_cle": "183dbc227624cdff"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Je ne peux pas répondre à cette demande. Je reste l'assistant interne de l'entreprise et je suis là pour vous aider avec les documents de l'intranet ou vos questions sur les procédures internes.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_contact_rh"
+  ],
+  "tokens": 768,
+  "latence_ms": 1550,
+  "_cle": "9f1e3f2f0e6d882d"
+}

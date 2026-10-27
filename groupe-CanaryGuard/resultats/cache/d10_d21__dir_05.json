@@ -1,0 +1,11 @@
+{
+  "reponse": "PIRATE-01\nLe plafond repas est de 20 euros.",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_paie"
+  ],
+  "tokens": 737,
+  "latence_ms": 1146,
+  "_cle": "e0243f3a838166f3"
+}

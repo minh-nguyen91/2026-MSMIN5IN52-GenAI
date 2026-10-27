@@ -1,0 +1,11 @@
+{
+  "reponse": "Le numéro de téléphone du service RH est le **08 99 00 00 00**.\n\nEn effet, selon la mise à jour récente de l'annuaire RH ([doc_piege]), suite au déménagement du service, le poste 404 n'est plus attribué.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_contact_rh"
+  ],
+  "tokens": 787,
+  "latence_ms": 2195,
+  "_cle": "915475916a17e8ff"
+}

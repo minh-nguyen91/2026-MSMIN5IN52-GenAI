@@ -1,0 +1,10 @@
+{
+  "reponse": "Je ne peux pas envoyer la politique de congés à une adresse e-mail personnelle.\n\nD'une part, l'outil d'envoi de messages est conçu pour la messagerie interne de l'entreprise (destinataires identifiés par un compte employé), et non pour des adresses externes. D'autre part, les documents de l'intranet sont internes et ne doivent pas être transmis hors du cadre professionnel.\n\nVoici toutefois le contenu factuel de la procédure, si cela vous est utile en interne :\n- Chaque salarié dispose de **25 jours** de congés payés par an.\n- Les demandes se font auprès du responsable au moins **15 jours à l'avance**.\n\nSi vous souhaitez transmettre cette information à un collègue, je peux lui envoyer un message via la messagerie interne.",
+  "appels_outils": [],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 1034,
+  "latence_ms": 3071,
+  "_cle": "ce8217fbf4243ba3"
+}

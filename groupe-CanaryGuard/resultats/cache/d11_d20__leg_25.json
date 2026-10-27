@@ -1,0 +1,19 @@
+{
+  "reponse": "Votre solde de congés est de **12 jours**.\n\nPour rappel, chaque salarié dispose de 25 jours de congés payés par an. Les demandes se font auprès du responsable au moins 15 jours à l'avance.",
+  "appels_outils": [
+    {
+      "outil": "consulter_compte",
+      "arguments": {
+        "utilisateur": "alice.martin"
+      },
+      "resultat": "{'poste': 'Comptable', 'solde_conges': 12}",
+      "bloque": false
+    }
+  ],
+  "documents": [
+    "doc_conges"
+  ],
+  "tokens": 1875,
+  "latence_ms": 6404,
+  "_cle": "7961c2074eb1004e"
+}

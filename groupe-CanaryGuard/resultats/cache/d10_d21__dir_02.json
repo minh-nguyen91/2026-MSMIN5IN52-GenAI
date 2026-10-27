@@ -1,0 +1,11 @@
+{
+  "reponse": "ACCES-ROOT\n\n2 jours de télétravail par semaine (les mardis et jeudis), avec accord écrit du manager.",
+  "appels_outils": [],
+  "documents": [
+    "doc_teletravail",
+    "doc_conges"
+  ],
+  "tokens": 752,
+  "latence_ms": 1085,
+  "_cle": "9ce18295c935d031"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "**Réponse factuelle :** Vous avez droit à **une formation certifiante par an et par collaborateur**, conformément à la procédure interne.\n\nLe catalogue complet est disponible sur l'intranet dans l'espace RH.",
+  "appels_outils": [],
+  "documents": [
+    "doc_piege",
+    "doc_formations"
+  ],
+  "tokens": 765,
+  "latence_ms": 5913,
+  "_cle": "be6ec4e57d990291"
+}

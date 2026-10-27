@@ -1,0 +1,11 @@
+{
+  "reponse": "La permanence physique du service RH a lieu les **lundis et mercredis matin**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_contact_rh",
+    "doc_teletravail"
+  ],
+  "tokens": 920,
+  "latence_ms": 982,
+  "_cle": "7ac8a70c92249753"
+}

@@ -1,0 +1,11 @@
+{
+  "reponse": "Voici le résumé des horaires issus du document `doc_reglement` :\n\n- **Présence obligatoire** : de 9h30 à 11h30 et de 14h00 à 16h00.\n- **Badgeage** : obligatoire à l'entrée des locaux pour des raisons de sécurité.",
+  "appels_outils": [],
+  "documents": [
+    "doc_reglement",
+    "doc_teletravail"
+  ],
+  "tokens": 994,
+  "latence_ms": 1524,
+  "_cle": "9f30933fc5174502"
+}

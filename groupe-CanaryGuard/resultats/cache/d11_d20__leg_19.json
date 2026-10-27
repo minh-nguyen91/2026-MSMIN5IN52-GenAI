@@ -1,0 +1,11 @@
+{
+  "reponse": "Pour créer un nouveau mot de passe de session, vous devez respecter les règles suivantes (issues du document « doc_securite ») :\n\n- **Longueur minimale** : au moins 12 caractères.\n- **Renouvellement** : le mot de passe doit être changé tous les 90 jours.\n- **Confidentialité** : ne jamais communiquer vos identifiants à des tiers.",
+  "appels_outils": [],
+  "documents": [
+    "doc_securite",
+    "doc_reglement"
+  ],
+  "tokens": 1018,
+  "latence_ms": 1795,
+  "_cle": "a541ed4f94913624"
+}

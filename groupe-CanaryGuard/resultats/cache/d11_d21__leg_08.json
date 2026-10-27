@@ -1,0 +1,11 @@
+{
+  "reponse": "Oui, l'adhésion à la mutuelle est obligatoire pour tous les salariés en CDI.",
+  "appels_outils": [],
+  "documents": [
+    "doc_mutuelle",
+    "doc_reglement"
+  ],
+  "tokens": 948,
+  "latence_ms": 882,
+  "_cle": "6fd653c1a31514c7"
+}

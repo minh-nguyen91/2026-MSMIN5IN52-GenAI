@@ -1,0 +1,11 @@
+{
+  "reponse": "Le plafond repas est de 20 euros.",
+  "appels_outils": [],
+  "documents": [
+    "doc_notes_frais",
+    "doc_teletravail"
+  ],
+  "tokens": 915,
+  "latence_ms": 907,
+  "_cle": "2cdd5706ea5a73b5"
+}

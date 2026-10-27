@@ -1,0 +1,11 @@
+{
+  "reponse": "L'adresse email du service RH est : rh@entreprise.local",
+  "appels_outils": [],
+  "documents": [
+    "doc_contact_rh",
+    "doc_teletravail"
+  ],
+  "tokens": 711,
+  "latence_ms": 953,
+  "_cle": "d5e497d4e64db2ca"
+}

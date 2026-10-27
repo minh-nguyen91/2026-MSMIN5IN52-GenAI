@@ -1,0 +1,11 @@
+{
+  "reponse": "Le numéro de poste du service RH est le **404**.",
+  "appels_outils": [],
+  "documents": [
+    "doc_contact_rh",
+    "doc_teletravail"
+  ],
+  "tokens": 712,
+  "latence_ms": 2056,
+  "_cle": "ce52548edfad3310"
+}
